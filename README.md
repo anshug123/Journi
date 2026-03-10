@@ -1,4 +1,4 @@
-# WanderWise
+# Journi
 NOTE: XAMPP should be installed in your system and you have to start it before running the code and keep the Project in the following directory:
 C:\xampp\htdocs
 
